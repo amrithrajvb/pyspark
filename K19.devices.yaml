@@ -1,0 +1,83 @@
+devices: &K19
+  # Sable devices 'R'
+  Topaz: &Topaz
+    codename: 'Topaz'
+    family: 'HP OfficeJet 250 Mobile All-in-One'
+    function: [print, scan]
+    models:
+      - 'HP OfficeJet 250 Mobile Series'
+      - 'OfficeJet 250 Mobile Series'
+  # Crush devices 'G'
+  Edwin: &Edwin
+    codename: 'Edwin'
+    family: 'HP OfficeJet Pro 7740 Wide Format All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 7740 series'
+      - 'OfficeJet Pro 7740 series'
+  Muscatel: &Muscatel
+    codename: 'Muscatel'
+    family: 'HP OfficeJet Pro 6960 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 6960'
+      - 'OfficeJet Pro 6960'
+  MuscatelHi: &MuscatelHi
+    codename: 'Muscatel Hi'
+    family: 'HP OfficeJet Pro 6970 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 6970'
+      - 'OfficeJet Pro 6970'
+  MuscatelOJ: &MuscatelOJ
+    codename: 'Muscatel OJ'
+    family: 'HP OfficeJet 6960 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet 6960'
+      - 'OfficeJet 6960'
+  # Cassowary devices 'S'
+  IcemanLowMinusDw: &IcemanLowMinusDw
+    codename: 'Iceman Low Minus Dw'
+    family: 'HP PageWide 352dw'
+    function: [print]
+    models:
+      - 'HP PageWide 352dw Printer'
+      - 'PageWide 352dw Printer'
+  IcemanHighManaged: &IcemanHighManaged
+    codename: 'Iceman High Managed'
+    family: 'HP PageWide Managed P55250'
+    function: [print]
+    models:
+      - 'HP PageWide P55250'
+      - 'PageWide P55250'
+  MaverickLowMinusDw: &MaverickLowMinusDw
+    codename: 'Maverick Low Minus Dw'
+    family: 'HP PageWide MFP 377dw'
+    function: [print, scan, fax]
+    models:
+      - 'HP PageWide 377dw MFP'
+      - 'PageWide 377dw MFP'
+  MaverickHighManaged: &MaverickHighManaged
+    codename: 'Maverick High Managed'
+    family: 'HP PageWide Managed MFP P57750'
+    function: [print, scan, fax]
+    models:
+      - 'HP PageWide MFP P57750'
+      - 'PageWide MFP P57750'
+  # Sun devices 'H'
+  WeberBaseOJ: &WeberBaseOJ
+    codename: 'Weber Base OJ'
+    family: 'HP OfficeJet 8702 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet 8700'
+      - 'OfficeJet 8700'
+  # Egypt devices 'L'
+  ShaolinPlusUIA: &ShaolinPlusUIA
+    codename: 'Shaolin Plus UIA'
+    family: 'HP DeskJet Ink Advantage Ultra 5730 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP DeskJet 5730 series'
+      - 'DeskJet 5730 series'

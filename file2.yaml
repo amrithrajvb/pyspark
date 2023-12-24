@@ -1,0 +1,237 @@
+DevelopmentInformation:
+  Products:
+  - devices:
+      IcemanHigh:
+        codename: Iceman High
+        family: HP PageWide Pro 552 Printer
+        function:
+        - print
+        models:
+        - HP PageWide Pro 552 Printer
+        - PageWide Pro 552 Printer
+      IcemanLowDN:
+        codename: Iceman Low DN
+        family: HP PageWide Pro 452dn Printer
+        function:
+        - print
+        models:
+        - HP PageWide Pro 452dn Printer
+        - PageWide Pro 452dn Printer
+      IcemanLowDW:
+        codename: Iceman Low DW
+        family: HP PageWide Pro 452dw Printer
+        function:
+        - print
+        models:
+        - HP PageWide Pro 452dw Printer
+        - PageWide Pro 452dw Printer
+      KronosAIO:
+        codename: Kronos AIO
+        family: HP DeskJet GT 5810 All-in-One
+        function:
+        - print
+        - scan
+        models:
+        - HP DeskJet 5810 series
+        - DeskJet 5810 series
+      KronosAIOWL:
+        codename: Kronos AIO WL
+        family: HP DeskJet GT 5820 All-in-One
+        function:
+        - print
+        - scan
+        models:
+        - HP DeskJet 5820 series
+        - DeskJet 5820 series
+      MaverickHigh:
+        codename: Maverick High
+        family: HP PageWide Pro 577 MFP
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP PageWide Pro 577 MFP
+        - PageWide Pro 577 MFP
+      MaverickLowDN:
+        codename: Maverick Low DN
+        family: HP PageWide Pro 477dn MFP
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP PageWide Pro 477dn MFP
+        - PageWide Pro 477dn MFP
+      MaverickLowDW:
+        codename: Maverick Low DW
+        family: HP PageWide Pro 477dw MFP
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP PageWide Pro 477dw MFP
+        - PageWide Pro 477dw MFP
+      Ruby:
+        codename: Ruby
+        family: HP OfficeJet 200 Mobile Printer
+        function:
+        - print
+        models:
+        - HP OfficeJet 200 Mobile Series
+        - OfficeJet 200 Mobile Series
+      TeslaPDL:
+        codename: Tesla PDL
+        family: HP OfficeJet Pro 8210 Printer
+        function:
+        - print
+        models:
+        - HP OfficeJet Pro 8210
+        - OfficeJet Pro 8210
+      WeberBase:
+        codename: Weber Base
+        family: HP OfficeJet Pro 8710 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 8710
+        - OfficeJet Pro 8710
+      WeberHiPDL:
+        codename: Weber Hi PDL
+        family: HP OfficeJet Pro 8740 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 8740
+        - OfficeJet Pro 8740
+      WeberMid:
+        codename: Weber Mid
+        family: HP OfficeJet Pro 8720 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 8720
+        - OfficeJet Pro 8720
+      WeberPDL:
+        codename: Weber PDL
+        family: HP OfficeJet Pro 8730 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 8730
+        - OfficeJet Pro 8730
+  - devices:
+      Edwin:
+        codename: Edwin
+        family: HP OfficeJet Pro 7740 Wide Format All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 7740 series
+        - OfficeJet Pro 7740 series
+      IcemanHighManaged:
+        codename: Iceman High Managed
+        family: HP PageWide Managed P55250
+        function:
+        - print
+        models:
+        - HP PageWide P55250
+        - PageWide P55250
+      IcemanLowMinusDw:
+        codename: Iceman Low Minus Dw
+        family: HP PageWide 352dw
+        function:
+        - print
+        models:
+        - HP PageWide 352dw Printer
+        - PageWide 352dw Printer
+      MaverickHighManaged:
+        codename: Maverick High Managed
+        family: HP PageWide Managed MFP P57750
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP PageWide MFP P57750
+        - PageWide MFP P57750
+      MaverickLowMinusDw:
+        codename: Maverick Low Minus Dw
+        family: HP PageWide MFP 377dw
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP PageWide 377dw MFP
+        - PageWide 377dw MFP
+      Muscatel:
+        codename: Muscatel
+        family: HP OfficeJet Pro 6960 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 6960
+        - OfficeJet Pro 6960
+      MuscatelHi:
+        codename: Muscatel Hi
+        family: HP OfficeJet Pro 6970 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet Pro 6970
+        - OfficeJet Pro 6970
+      MuscatelOJ:
+        codename: Muscatel OJ
+        family: HP OfficeJet 6960 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet 6960
+        - OfficeJet 6960
+      ShaolinPlusUIA:
+        codename: Shaolin Plus UIA
+        family: HP DeskJet Ink Advantage Ultra 5730 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP DeskJet 5730 series
+        - DeskJet 5730 series
+      Topaz:
+        codename: Topaz
+        family: HP OfficeJet 250 Mobile All-in-One
+        function:
+        - print
+        - scan
+        models:
+        - HP OfficeJet 250 Mobile Series
+        - OfficeJet 250 Mobile Series
+      WeberBaseOJ:
+        codename: Weber Base OJ
+        family: HP OfficeJet 8702 All-in-One
+        function:
+        - print
+        - scan
+        - fax
+        models:
+        - HP OfficeJet 8700
+        - OfficeJet 8700

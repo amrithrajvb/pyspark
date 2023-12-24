@@ -1,0 +1,311 @@
+DevelopmentInformation:
+  Basename: hp-printer-essentials-R-5_15_5
+  Branches:
+    K18: K18
+    K19: K19
+  Products:
+  - IcemanHigh:
+      codename: Iceman High
+      family: HP PageWide Pro 552 Printer
+      function:
+      - print
+      models:
+      - HP PageWide Pro 552 Printer
+      - PageWide Pro 552 Printer
+    IcemanLowDN:
+      codename: Iceman Low DN
+      family: HP PageWide Pro 452dn Printer
+      function:
+      - print
+      models:
+      - HP PageWide Pro 452dn Printer
+      - PageWide Pro 452dn Printer
+    IcemanLowDW:
+      codename: Iceman Low DW
+      family: HP PageWide Pro 452dw Printer
+      function:
+      - print
+      models:
+      - HP PageWide Pro 452dw Printer
+      - PageWide Pro 452dw Printer
+    KronosAIO:
+      codename: Kronos AIO
+      family: HP DeskJet GT 5810 All-in-One
+      function:
+      - print
+      - scan
+      models:
+      - HP DeskJet 5810 series
+      - DeskJet 5810 series
+    KronosAIOWL:
+      codename: Kronos AIO WL
+      family: HP DeskJet GT 5820 All-in-One
+      function:
+      - print
+      - scan
+      models:
+      - HP DeskJet 5820 series
+      - DeskJet 5820 series
+    MaverickHigh:
+      codename: Maverick High
+      family: HP PageWide Pro 577 MFP
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP PageWide Pro 577 MFP
+      - PageWide Pro 577 MFP
+    MaverickLowDN:
+      codename: Maverick Low DN
+      family: HP PageWide Pro 477dn MFP
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP PageWide Pro 477dn MFP
+      - PageWide Pro 477dn MFP
+    MaverickLowDW:
+      codename: Maverick Low DW
+      family: HP PageWide Pro 477dw MFP
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP PageWide Pro 477dw MFP
+      - PageWide Pro 477dw MFP
+    Ruby:
+      codename: Ruby
+      family: HP OfficeJet 200 Mobile Printer
+      function:
+      - print
+      models:
+      - HP OfficeJet 200 Mobile Series
+      - OfficeJet 200 Mobile Series
+    TeslaPDL:
+      codename: Tesla PDL
+      family: HP OfficeJet Pro 8210 Printer
+      function:
+      - print
+      models:
+      - HP OfficeJet Pro 8210
+      - OfficeJet Pro 8210
+    WeberBase:
+      codename: Weber Base
+      family: HP OfficeJet Pro 8710 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 8710
+      - OfficeJet Pro 8710
+    WeberHiPDL:
+      codename: Weber Hi PDL
+      family: HP OfficeJet Pro 8740 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 8740
+      - OfficeJet Pro 8740
+    WeberMid:
+      codename: Weber Mid
+      family: HP OfficeJet Pro 8720 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 8720
+      - OfficeJet Pro 8720
+    WeberPDL:
+      codename: Weber PDL
+      family: HP OfficeJet Pro 8730 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 8730
+      - OfficeJet Pro 8730
+  - Edwin:
+      codename: Edwin
+      family: HP OfficeJet Pro 7740 Wide Format All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 7740 series
+      - OfficeJet Pro 7740 series
+    IcemanHighManaged:
+      codename: Iceman High Managed
+      family: HP PageWide Managed P55250
+      function:
+      - print
+      models:
+      - HP PageWide P55250
+      - PageWide P55250
+    IcemanLowMinusDw:
+      codename: Iceman Low Minus Dw
+      family: HP PageWide 352dw
+      function:
+      - print
+      models:
+      - HP PageWide 352dw Printer
+      - PageWide 352dw Printer
+    MaverickHighManaged:
+      codename: Maverick High Managed
+      family: HP PageWide Managed MFP P57750
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP PageWide MFP P57750
+      - PageWide MFP P57750
+    MaverickLowMinusDw:
+      codename: Maverick Low Minus Dw
+      family: HP PageWide MFP 377dw
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP PageWide 377dw MFP
+      - PageWide 377dw MFP
+    Muscatel:
+      codename: Muscatel
+      family: HP OfficeJet Pro 6960 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 6960
+      - OfficeJet Pro 6960
+    MuscatelHi:
+      codename: Muscatel Hi
+      family: HP OfficeJet Pro 6970 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet Pro 6970
+      - OfficeJet Pro 6970
+    MuscatelOJ:
+      codename: Muscatel OJ
+      family: HP OfficeJet 6960 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet 6960
+      - OfficeJet 6960
+    ShaolinPlusUIA:
+      codename: Shaolin Plus UIA
+      family: HP DeskJet Ink Advantage Ultra 5730 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP DeskJet 5730 series
+      - DeskJet 5730 series
+    Topaz:
+      codename: Topaz
+      family: HP OfficeJet 250 Mobile All-in-One
+      function:
+      - print
+      - scan
+      models:
+      - HP OfficeJet 250 Mobile Series
+      - OfficeJet 250 Mobile Series
+    WeberBaseOJ:
+      codename: Weber Base OJ
+      family: HP OfficeJet 8702 All-in-One
+      function:
+      - print
+      - scan
+      - fax
+      models:
+      - HP OfficeJet 8700
+      - OfficeJet 8700
+  ShelfQuarantineLocation: https://svn2.ctf2014.com/svn/repos/mac-pkg-shelf/shelf/quarantine/essentials/[[SHORT_VERSION]]/R
+  ShelfTagsLocation: https://svn2.ctf2014.com/svn/repos/mac-pkg-shelf/shelf/tags/essentials/[[SHORT_VERSION]]/R/[[BUILD_NUMBER]]
+  SwlsIdenfifier: com.hp.pkg.swls.printer-essentials-R.version
+  SwlsIdentifierType: OSXPackageMakerPackage
+  SwlsType: ESSENTIAL-REQUIRED
+  Version: 5.15.5
+DynamicallyGeneratedPackages:
+- config: pkg.receipt.version
+  filename: hp-printer-essentials-R.version.pkg
+  identifier: com.hp.pkg.swls.printer-essentials-R.version
+  scriptOnly: false
+  version: '[[LONG_VERSION]]'
+- config: com.hp.print.makequeues
+  filename: com.hp.print.makequeues.pkg
+  identifier: com.hp.print.makequeues.pkg
+  scriptOnly: true
+  version: 1.0.0.[[BUILD_NUMBER]]
+ProductInstallerPackage:
+  BlockOnRunningApplications: false
+  ChoicesOutline:
+  - default
+  Identifier: com.hp.pkg.swls.printer-essentials-R
+  InstallerChoiceDefinition:
+  - choiceState:
+      startEnabled: false
+      startSelected: true
+      startVisible: true
+    id: default
+    packageList:
+    - packageFilename: com.hp.print.script.checkUpdateLinks.pkg
+    - packageFilename: com.hp.ResourceManager.DI_RM.A.04.08.004.pkg
+    - packageFilename: com.hp.DeviceModel.5.pkg
+    - packageFilename: com.hp.DeviceModel.4.pkg
+    - packageFilename: com.hp.print.obsoleteioremover.pkg
+    - packageFilename: com.hp.print.DriverCore.A.pkg
+    - packageFilename: com.hp.print.autosetup.pkg
+    - packageFilename: com.hp.print.commandtohp.pkg
+    - packageFilename: com.hp.print.SmartPrint.A.pkg
+    - packageFilename: com.hp.print.pde.pkg
+    - packageFilename: com.hp.Interlaken.DI_ILLN.A.03.00.011.pkg
+    - packageFilename: com.hp.crossbow.D.pkg
+    - packageFilename: com.hp.Matterhorn.DI_MH.A.05.03.006.pkg
+    - packageFilename: com.hp.Matterhorn.DI_MH.A.06.04.008.pkg
+    - packageFilename: com.hp.print.pdftopdf.pkg
+    - packageFilename: com.hp.print.officejet.kext.modern.pkg
+    - packageFilename: com.hp.print.officejet.pkg
+    - packageFilename: com.hp.DeviceMonitor.stub.pkg
+    - packageFilename: com.hp.Device_Monitor.stub.pkg
+    - packageFilename: com.hp.SetupAssistant.stub.pkg
+    - packageFilename: com.hp.eventStore.stub.pkg
+    - packageFilename: com.hp.hpAlerts.stub.pkg
+    - packageFilename: com.hp.hpEmailAlerts.stub.pkg
+    - packageFilename: com.hp.messagecenter.stub.pkg
+    - packageFilename: com.hp.utility.ScanTasksManagerPkg.stub.pkg
+    - packageFilename: com.hp.utility.ScanToEmailSettingsPkg.stub.pkg
+    - packageFilename: com.hp.utility.ScanToFolderSettingsPkg.stub.pkg
+    - packageFilename: com.hp.print.utility.pkg
+    - packageFilename: com.hp.fax.driver.pkg
+    - packageFilename: com.hp.fax.driver.kext.modern.pkg
+    - packageFilename: com.hp.scan.ica.module3.pkg
+    - packageFilename: com.hp.scan.ica.module.pkg
+    - packageFilename: com.hp.scan.button.handler.generic.pkg
+    - packageFilename: com.hp.print.makequeues.pkg
+    - packageFilename: hp-printer-essentials-R.version.pkg
+  JavascriptIncludeFiles:
+  - common.js
+  - InstallationCheck.js
+  - VolumeCheck.js
+  RestartRequired: false
+StringReplacementDefinition:
+- token: '[[COPYRIGHT]]'
+  value: "\xC2\xA9 Copyright 1992-[[YEAR]] by HP Development Company, L.P."

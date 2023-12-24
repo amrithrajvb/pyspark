@@ -1,0 +1,103 @@
+devices: &K18
+  # Cassowary devices 'S'
+  IcemanLowDN: &IcemanLowDN
+    codename: 'Iceman Low DN'
+    family: 'HP PageWide Pro 452dn Printer'
+    function: [print]
+    models:
+      - 'HP PageWide Pro 452dn Printer'
+      - 'PageWide Pro 452dn Printer'
+  IcemanLowDW: &IcemanLowDW
+    codename: 'Iceman Low DW'
+    family: 'HP PageWide Pro 452dw Printer'
+    function: [print]
+    models:
+      - 'HP PageWide Pro 452dw Printer'
+      - 'PageWide Pro 452dw Printer'
+  IcemanHigh: &IcemanHigh
+    codename: 'Iceman High'
+    family: 'HP PageWide Pro 552 Printer'
+    function: [print]
+    models:
+      - 'HP PageWide Pro 552 Printer'
+      - 'PageWide Pro 552 Printer'
+  MaverickLowDN: &MaverickLowDN
+    codename: 'Maverick Low DN'
+    family: 'HP PageWide Pro 477dn MFP'
+    function: [print, scan, fax]
+    models:
+      - 'HP PageWide Pro 477dn MFP'
+      - 'PageWide Pro 477dn MFP'
+  MaverickLowDW: &MaverickLowDW
+    codename: 'Maverick Low DW'
+    family: 'HP PageWide Pro 477dw MFP'
+    function: [print, scan, fax]
+    models:
+      - 'HP PageWide Pro 477dw MFP'
+      - 'PageWide Pro 477dw MFP'
+  MaverickHigh: &MaverickHigh
+    codename: 'Maverick High'
+    family: 'HP PageWide Pro 577 MFP'
+    function: [print, scan, fax]
+    models:
+      - 'HP PageWide Pro 577 MFP'
+      - 'PageWide Pro 577 MFP'
+  WeberPDL: &WeberPDL
+    codename: 'Weber PDL'
+    family: 'HP OfficeJet Pro 8730 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 8730'
+      - 'OfficeJet Pro 8730'
+  WeberHiPDL: &WeberHiPDL
+    codename: 'Weber Hi PDL'
+    family: 'HP OfficeJet Pro 8740 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 8740'
+      - 'OfficeJet Pro 8740'
+  TeslaPDL: &TeslaPDL
+    codename: 'Tesla PDL'
+    family: 'HP OfficeJet Pro 8210 Printer'
+    function: [print]
+    models:
+      - 'HP OfficeJet Pro 8210'
+      - 'OfficeJet Pro 8210'
+  # Egypt devices 'L'
+  KronosAIO: &KronosAIO
+    codename: 'Kronos AIO'
+    family: 'HP DeskJet GT 5810 All-in-One'
+    function: [print, scan]
+    models:
+      - 'HP DeskJet 5810 series'
+      - 'DeskJet 5810 series'
+  KronosAIOWL: &KronosAIOWL
+    codename: 'Kronos AIO WL'
+    family: 'HP DeskJet GT 5820 All-in-One'
+    function: [print, scan]
+    models:
+      - 'HP DeskJet 5820 series'
+      - 'DeskJet 5820 series'
+  # Sun devices 'H'
+  WeberBase: &WeberBase
+    codename: 'Weber Base'
+    family: 'HP OfficeJet Pro 8710 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 8710'
+      - 'OfficeJet Pro 8710'
+  WeberMid: &WeberMid
+    codename: 'Weber Mid'
+    family: 'HP OfficeJet Pro 8720 All-in-One'
+    function: [print, scan, fax]
+    models:
+      - 'HP OfficeJet Pro 8720'
+      - 'OfficeJet Pro 8720'
+  # Sable devices 'R'
+  Ruby: &Ruby
+    codename: 'Ruby'
+    family: 'HP OfficeJet 200 Mobile Printer'
+    function: [print]
+    models:
+      - 'HP OfficeJet 200 Mobile Series'
+      - 'OfficeJet 200 Mobile Series'
